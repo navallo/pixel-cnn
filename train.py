@@ -6,7 +6,7 @@ Example usage:
 CUDA_VISIBLE_DEVICES=0,1,2,3 python train_double_cnn.py --nr_gpu 4
 """
 
-import os
+import os 
 import sys
 import time
 import json
