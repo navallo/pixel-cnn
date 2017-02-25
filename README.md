@@ -1,3 +1,6 @@
+## 20170225 Modified for Tensorflow1.0 API
+
+Enviroment: Ubuntu 16.04 + Tensorflow1.0 + Anaconda 4.3.0 + Python 3.5.2 + CUDA 8.0 + cuDNN 5.1
 
 # pixel-cnn++
 
